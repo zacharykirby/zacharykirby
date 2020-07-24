@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome!
+---
+My name is Zachary Kirby. I love computers and figuring out how to make them better.
 
 <!--
 **zacharykirby/zacharykirby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
